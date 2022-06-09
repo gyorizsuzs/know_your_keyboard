@@ -36,3 +36,5 @@ _This document lists all the useful keyboard shortcuts_
 |Dot                | .            |.                            |
 |Comma              | ,            |,                            |
   
+
+  Typing lessons evidence: ![picture](Screenshot 2022-06-09 at 20.27.36.png)
