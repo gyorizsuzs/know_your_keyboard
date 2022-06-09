@@ -37,4 +37,4 @@ _This document lists all the useful keyboard shortcuts_
 |Comma              | ,            |,                            |
   
 
-  Typing lessons evidence: ![picture](Screenshot 2022-06-09 at 20.27.36.png)
+  Typing lessons evidence: ! [evidence](file:///Users/zsuzsannagyori/Desktop/Screenshot%202022-06-09%20at%2020.27.36.png)
